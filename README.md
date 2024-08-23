@@ -12,6 +12,13 @@
 
 - Geoengineering-Causality.ipynb: Causality analysis
 
+- TrainingData.ipynb: Training by our labelled data
+
+- TunedSentimentScore.ipynb: Predict by new model
+
+- TunedSentimentAnalysis.ipynb: Conduct correlation and causality analysis
+
+
 Use google drive to assure all codes are running in the right environment.
 
 Put code file in the original folder and all data in /PPT/ directory, which leads to /PPT/data.csv
